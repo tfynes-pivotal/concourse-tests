@@ -1,6 +1,6 @@
 pivnet-api-token: ((pivnet_token))
 pivnet-product-slug: elastic-runtime 
-pivnet-file-glob: srt-(.*)-build.1.pivotal
+pivnet-file-glob: srt-2.4.1-build.1.pivotal
 #pivnet-file-glob: srt-(.*)-build\..*\.pivotal
 product-version: 2.4.1
 download-stemcell: true
