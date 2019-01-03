@@ -1,6 +1,6 @@
 pivnet-api-token: ((pivnet_token))
 pivnet-product-slug: ops-manager
-pivnet-file-glob: pcf-vsphere-(.*).ova
+pivnet-file-glob: pcf-vsphere-2.4-build.131.ova
 #pivnet-file-glob: pcf-vsphere-2\.4-build\..*\.ova
 #pivnet-file-glob: pcf-vsphere-2.4-build.131.ova
 product-version: 2.4.1
